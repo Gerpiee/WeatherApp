@@ -23,6 +23,9 @@ This project is a weather application built using React.js for the frontend and 
 - **Location Search**: Allows users to search for weather information by city name.
 - **Dynamic Backgrounds**: Changes background images based on weather conditions.
 
+##ScreenShots
+https://github.com/Gerpiee/WeatherApp/issues/1
+
 ## Getting Started
 
 ### Prerequisites
